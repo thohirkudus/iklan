@@ -76,7 +76,7 @@ function create_pu()
             }
         }
 
-        var origin = 'https://s.shopee.co.id/1g1YNBLX1s';
+        var origin = 'https://s.shopee.co.id/8pUiubERyj';
 
         if(window.pu.type === 'popup'){
             var tmp_link = target;
